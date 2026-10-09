@@ -1,0 +1,6 @@
+{
+  "name": "Mishra Communication — Mobile & Laptop Accessories",
+  "description": "Smart accessories, laptop essentials, computer peripherals, and smart gadgets in Burari, Delhi. Direct phone and WhatsApp enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
